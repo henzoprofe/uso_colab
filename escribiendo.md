@@ -1,6 +1,4 @@
-# **EN CONSTRUCCIÓN**
-
-# Utilizando lasceldas de texto
+# Utilizando las celdas de texto
 
 Como se vió en **"Iniciando"**, existen dos tipos de celdas en un notebook, las celdas de texto y las celdas de código, y su nombre nos dice que hace cada una de ellas.
 LAs celdas de texto admiten tres formas de escritura en código para producir resultados visualmente agradables, estos tres tipos de escritura son:
