@@ -1,5 +1,3 @@
-# **EN CONSTRUCCIÓN**
-
 # Abriendo el entorno
 
 ### <center>SE DEBE LEER TODO EN DETALLE, MUCHAS VECES POR APRESURARSE LAS COSAS NO FUNCIONAN.</center>
